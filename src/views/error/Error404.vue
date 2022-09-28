@@ -6,7 +6,7 @@
       <!-- h2 class="brand-text text-primary ml-1">
         WildSage Labs
       </h2 -->
-      <img src="wildsage.png" alt="WildSage Labs" />
+      <img src="wildsage.png" alt="WildSage Labs" style="max-height: 28px;" />
     </b-link>
 
     <div class="misc-inner p-2 p-sm-3">
