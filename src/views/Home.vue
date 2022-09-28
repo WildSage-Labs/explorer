@@ -9,6 +9,7 @@
         >
           Ping Explorer<small class="flow-left">Beta</small>
         </h1 -->
+        <img src="wildsage.png" alt="WildSage Labs" />
       </div>
     </b-link>
 
