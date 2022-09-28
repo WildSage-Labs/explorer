@@ -1,12 +1,11 @@
 <template>
   <p class="clearfix mb-0">
     <span class="float-md-left d-none d-md-block d-md-inline-block mt-25">
-      Powered By
       <b-link
         class="ml-25 font-weight-bolder"
-        href="#"
+        href="https://wildsage.io"
         target="_blank"
-      >Ping.pub</b-link>
+      >WildSage Labs</b-link>
     </span>
 
     <router-link
