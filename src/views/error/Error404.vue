@@ -3,10 +3,9 @@
   <div class="misc-wrapper">
     <b-link class="brand-logo">
       <vuexy-logo />
-      <!-- h2 class="brand-text text-primary ml-1">
-        WildSage Labs
-      </h2 -->
-      <img src="wildsage-sml.png" alt="WildSage Labs" />
+      <h2 class="brand-text text-primary ml-1">
+        WildSage 
+      </h2>
     </b-link>
 
     <div class="misc-inner p-2 p-sm-3">
