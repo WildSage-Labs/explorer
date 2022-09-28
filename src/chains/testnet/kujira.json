@@ -2,14 +2,10 @@
   "chain_name": "KUJIRA",
   "coingecko": "kujira",
   "api": [
-    "https://kujira-lcd.wildsage.io",
-    "https://kujira-api.polkachu.com",
-    "https://lcd.kaiyo.kujira.setten.io"
+    "https://kujira-lcd-testnet.wildsage.io"
   ],
   "rpc": [
-    "https://kujira-rpc.wildsage.io:443",
-    "https://kujira-rpc.polkachu.com:443",
-    "https://rpc.kaiyo.kujira.setten.io:443"
+    "https://kujira-rpc-testnet.wildsage.io:443"
   ],
   "sdk_version": "0.45.4",
   "coin_type": "118",

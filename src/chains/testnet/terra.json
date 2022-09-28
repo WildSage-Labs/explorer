@@ -2,10 +2,10 @@
   "chain_name": "Terra",
   "coingecko": "terra-luna-2",
   "api": [
-    "https://lcd-terra.wildsage.io"
+    "https://pisco-lcd.terra.dev"
   ],
   "rpc": [
-    "https://rpc-terra.wildsage.io:443"
+    "https://terra-testnet-rpc.polkachu.com:443"
   ],
   "sdk_version": "0.45.4",
   "coin_type": "330",
