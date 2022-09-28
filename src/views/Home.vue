@@ -4,16 +4,16 @@
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
         <vuexy-logo />
-        <h1
+        <!-- h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
-        </h1>
+          Ping Explorer<small class="flow-left">Beta</small>
+        </h1 -->
       </div>
     </b-link>
 
     <p class="mb-1">
-      Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
+      Ping explorer is not just an explorer but also a wallet and more ... 🛠
     </p>
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
@@ -124,7 +124,7 @@ import {
 import Ripple from 'vue-ripple-directive'
 import VuexyLogo from '@core/layouts/components/Logo.vue'
 import store from '@/store/index'
-import { timeIn, toDay, getLocalChains } from '@/libs/utils'
+import { timeIn, toDay } from '@/libs/utils'
 import AppFooter from '@/@core/layouts/components/AppFooter.vue'
 import FullHeader from './components/FullHeader.vue'
 
@@ -162,12 +162,6 @@ export default {
       }
       return this.downImg
     },
-  },
-  beforeCreate() {
-    const keys = Object.keys(getLocalChains())
-    if (keys.length === 1) {
-      this.$router.push(`/${keys[0]}`)
-    }
   },
   methods: {
     fetch(k) {
