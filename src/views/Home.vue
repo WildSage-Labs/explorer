@@ -4,20 +4,18 @@
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
         <vuexy-logo />
-        <!-- h1
-          class="text-primary display-4 font-weight-bolder d-none d-md-block"
-        >
-          Ping Explorer<small class="flow-left">Beta</small>
-        </h1 -->
-        <img src="wildsage.png" alt="WildSage Labs" />
+        <h1 class="text-primary display-4 font-weight-bolder d-none d-md-block">
+          <!-- Ping Explorer<small class="flow-left">Beta</small> -->
+          WildSage Labs
+        </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      Ping explorer is not just an explorer but also a wallet and more ... 🛠
+      Providing Web3 Infra & Managed Validator as a Service (VaaS) 🛠
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains 🚀
+      Cosmos Ecosystem Blockchain Explorer 🚀
     </h2>
 
     <div>
