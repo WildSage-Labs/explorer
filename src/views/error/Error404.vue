@@ -2,10 +2,9 @@
   <!-- Error page-->
   <div class="misc-wrapper">
     <b-link class="brand-logo">
-      <vuexy-logo />
+      <vuexy-logo/>
       <h2 class="brand-text text-primary ml-1">
-        WildSage 
-      </h2>
+        WildSage</h2>
     </b-link>
 
     <div class="misc-inner p-2 p-sm-3">
@@ -18,23 +17,23 @@
         </p>
 
         <b-button
-          variant="primary"
-          class="mb-2 btn-sm-block"
-          :to="{path:'/'}"
+            variant="primary"
+            class="mb-2 btn-sm-block"
+            :to="{path:'/'}"
         >
           Back to home
         </b-button>
 
         <!-- image -->
         <b-img
-          fluid
-          :src="imgUrl"
-          alt="Error page"
+            fluid
+            :src="imgUrl"
+            alt="Error page"
         />
       </div>
     </div>
   </div>
-<!-- / Error page-->
+  <!-- / Error page-->
 </template>
 
 <script>
