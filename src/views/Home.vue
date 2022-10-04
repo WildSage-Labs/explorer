@@ -6,7 +6,7 @@
         <vuexy-logo />
         <h1 class="text-primary display-4 font-weight-bolder d-none d-md-block">
           <!-- Ping Explorer<small class="flow-left">Beta</small> -->
-          WildSage Labs
+          <img src="wildsage.png" alt="WildSage Labs">
         </h1>
       </div>
     </b-link>

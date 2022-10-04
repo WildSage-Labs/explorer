@@ -31,7 +31,7 @@
                 />
               </span>
               <h2 class="brand-text">
-                {{ appName }}
+                <img src="/WildSage_Transparent_RGB_logotype_XS_dark.png" alt="WS Labs" height="25">
               </h2>
             </b-link>
           </li>
