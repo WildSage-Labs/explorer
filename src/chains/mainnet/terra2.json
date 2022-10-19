@@ -1,7 +1,7 @@
 {
-    "chain_name": "terra2",
+    "chain_name": "Terra",
     "api": ["https://phoenix-lcd.terra.dev", "https://terra-api.polkachu.com/"],
-    "rpc": [],
+    "rpc": ["https://rpc-terra.wildsage.io:443"],
     "snapshot_provider": "",
     "sdk_version": "0.44.2",
     "coin_type": "330",
