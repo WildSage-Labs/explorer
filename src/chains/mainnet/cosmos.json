@@ -1,21 +1,24 @@
 {
-    "chain_name": "cosmos",
-    "api": [
-        "https://cosmos.api.ping.pub", 
-        "https://lcd-cosmoshub.blockapsis.com:443",
-        "https://api-cosmoshub-ia.cosmosia.notional.ventures"
-    ],
-    "rpc": ["https://rpc.cosmos.network:443", "https://cosmos-rpc.icycro.org", "https://rpc.cosmos.dragonstake.io"],
-    "sdk_version": "0.45.1",
-    "coin_type": "118",
-    "min_tx_fee": "800",
-    "addr_prefix": "cosmos",
-    "logo": "/logos/cosmos.svg",
-    "assets": [{
-        "base": "uatom",
-        "symbol": "ATOM",
-        "exponent": "6",
-        "coingecko_id": "cosmos", 
-        "logo": "/logos/cosmos.svg"
-    }]
+  "chain_name": "Juno",
+  "coingecko": "juno-network",
+  "api": [
+    "https://juno-lcd.wildsage.io"
+  ],
+  "rpc": [
+    "https://juno-rpc.wildsage.io:443"
+  ],
+  "sdk_version": "0.44.5",
+  "addr_prefix": "juno",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "logo": "/logos/juno.jpg",
+  "assets": [
+    {
+      "base": "ujuno",
+      "symbol": "JUNO",
+      "exponent": "6",
+      "coingecko_id": "juno-network",
+      "logo": "/logos/juno.jpg"
+    }
+  ]
 }
