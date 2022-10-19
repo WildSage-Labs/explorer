@@ -7,7 +7,7 @@
     "coin_type": "330",
     "min_tx_fee": "5000",
     "addr_prefix": "terra",
-    "logo": "/logos/terra-luna.jpg",
+    "logo": "/logos/terra2.png",
     "assets": [{
         "base": "uluna",
         "symbol": "LUNA",
