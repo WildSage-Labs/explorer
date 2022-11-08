@@ -1,0 +1,23 @@
+{
+  "chain_name": "cheqd",
+  "api": [
+    "https://api.cheqd.net",
+    "https://api.cheqd.nodestake.top"
+  ],
+  "rpc": [
+    "https://rpc.cheqd.net",
+    "https://cheqd-rpc.lavenderfive.com:443"
+  ],
+  "coin_type": "118",
+  "addr_prefix": "cheqd",
+  "assets": [
+    {
+      "base": "ncheq",
+      "symbol": "CHEQ",
+      "exponent": "9",
+      "coingecko_id": "cheqd-network",
+      "logo": "/logos/cheq.svg"
+    }
+  ],
+  "logo": "/logos/cheq.svg"
+}
