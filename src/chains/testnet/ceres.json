@@ -1,0 +1,17 @@
+{
+  "chain_name": "terrafirma",
+  "coingecko": "cosmos",
+  "api": ["https://casa-lcd.wildsage.io"],
+  "rpc": ["https://casa-rpc.wildsage.io"],
+  "sdk_version": "0.45.1",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "addr_prefix": "ceres",
+  "logo": "/logos/cosmos.svg",
+  "assets": [{
+    "base": "uceres",
+    "symbol": "CERES",
+    "exponent": "6",
+    "logo": "/logos/ceres-orig.svg"
+  }]
+}
