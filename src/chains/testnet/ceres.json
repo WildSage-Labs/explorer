@@ -5,9 +5,9 @@
   "rpc": ["https://casa-rpc.wildsage.io"],
   "sdk_version": "0.45.1",
   "coin_type": "118",
-  "min_tx_fee": "800",
+  "min_tx_fee": "1000",
   "addr_prefix": "ceres",
-  "logo": "/logos/cosmos.svg",
+  "logo": "/logos/ceres-orig.svg",
   "assets": [{
     "base": "uceres",
     "symbol": "CERES",

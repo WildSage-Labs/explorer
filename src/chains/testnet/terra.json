@@ -2,14 +2,14 @@
   "chain_name": "Terra",
   "coingecko": "terra-luna-2",
   "api": [
-    "https://pisco-lcd.terra.dev"
+    "https://terra-pisco-lcd.wildsage.io"
   ],
   "rpc": [
-    "https://terra-testnet-rpc.polkachu.com:443"
+    "https://terra-pisco-rpc.wildsage.io:443"
   ],
   "sdk_version": "0.45.4",
   "coin_type": "330",
-  "min_tx_fee": "5000",
+  "min_tx_fee": "15000",
   "assets": [
     {
       "base": "uluna",
