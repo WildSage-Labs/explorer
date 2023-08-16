@@ -1,14 +1,10 @@
 {
   "chain_name": "Terra",
   "api": [
-    "https://lcd-terra.wildsage.io",
-    "https://lcd-terra-2.wildsage.io",
-    "https://lcd-terra-3.wildsage.io"
+    "https://terra-api.polkachu.com/"
   ],
   "rpc": [
-    "https://rpc-terra.wildsage.io:443",
-    "https://rpc-terra-2.wildsage.io:443",
-    "https://rpc-terra-3.wildsage.io:443"
+    "https://terra-rpc.polkachu.com:443"
   ],
   "snapshot_provider": "",
   "sdk_version": "0.44.2",
